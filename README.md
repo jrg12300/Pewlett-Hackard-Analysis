@@ -8,6 +8,7 @@ Overview:
 Results:
 
   1) 50% of potential retirees are engineers [insert picture here]
+  ![Election_Analysis](https://github.com/jrg12300/Election_Analysis/blob/main/Election_reults_terminal_picture.png)
   2) There are 1,549 potential mentors
   3) 748 of the potential mentors are engineers of some kind
   4) Of the 300,025 total employees, 90,398 are potential retirees (30.1%)
